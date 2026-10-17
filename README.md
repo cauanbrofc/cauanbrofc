@@ -1,14 +1,14 @@
 # OPA, eu sou o Cauan Oliveira e Seja Bem vindo! 👋
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
 Me chamo **Cauan**, tenho **21 anos** e sou um desenvolvedor focado em **programação web e back-end (PHP)**. 
 
 Gosto de ver os sistemas funcionando na prática — desde a modelagem do banco de dados até as regras de negócio por trás das aplicações. Priorizo a construção de código limpo, funcional e direto ao ponto.
 
-* 🎓 **Educação:**
-  * 🚀 Cursando **Engenharia de Software 2ºPeriodo** (Graduação em andamento)
-  * 💻 **Técnico em Informática com foco em Programação** — Fucapi *(Fase final, aguardando conclusão do TCC)*
+* **Educação:**
+  * Cursando **Engenharia de Software 2ºPeriodo** (Graduação em andamento)
+  * **Técnico em Informática com foco em Programação** — Fucapi *(Fase final, aguardando conclusão do TCC)*
 
 * ⚙️ **Foco & Filosofia de Desenvolvimento:**
   * **Back-end:** Especialidade e foco principal em **PHP** e **MySQL**.
