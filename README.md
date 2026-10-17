@@ -1,4 +1,4 @@
-# Opa, eu sou o Cauan ! 
+# OPA, eu sou o Cauan Oliveira e Seja Bem vindo! 👋
 
 ## 👨‍💻 Sobre mim
 
@@ -20,8 +20,9 @@ Atualmente estou em busca de uma oportunidade de **estágio**, onde eu possa apl
 
 ## 🌐 Conecte-se comigo
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cauan-oliveira-173035312)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cauanbr_ofc/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cauanbrofc)
 
 ---
 
@@ -30,6 +31,7 @@ Atualmente estou em busca de uma oportunidade de **estágio**, onde eu possa apl
 ### Back-end & Banco de Dados
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 
 ### Front-end
@@ -48,24 +50,24 @@ Atualmente estou em busca de uma oportunidade de **estágio**, onde eu possa apl
 
 ## 📅 Linha do Tempo de Projetos & Repositórios
 
-Aqui estão meus principais projetos organizados em ordem cronológica:
+Aqui estão meus principais projetos organizados em ordem cronológica de desenvolvimento:
 
 ### 🚀 2026
-* **[Nome do Projeto / TCC]**
-  * **Descrição:** Sistema web desenvolvido com foco em regras de negócio e persistência de dados.
+* **[Projeto Veritas - Defesa Criminal](https://github.com/cauanbrofc/projeto-veritas-defesa-criminal)** *(Projeto Atual / TCC)*
+  * **Descrição:** Sistema web voltado para gestão e suporte jurídico em defesa criminal, desenvolvido para o TCC do curso Técnico em Informática. Foco em estrutura de banco de dados, regras de negócio e interface limpa.
   * **Tecnologias:** ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-  * 🔗 [Ver Repositório](https://github.com/SEU_USUARIO/NOME_DO_REPO)
-
-* **[Manipulação de Vetores e Algoritmos]**
-  * **Descrição:** Aplicação em linguagem C focada em lógica, estruturas de dados e manipulação de vetores unidimensionais.
-  * **Tecnologias:** ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-  * 🔗 [Ver Repositório](https://github.com/SEU_USUARIO/NOME_DO_REPO)
+  * 🔗 [Ver Repositório](https://github.com/cauanbrofc/projeto-veritas-defesa-criminal)
 
 ### 📜 2025
-* **[Nome do Projeto 2025]**
-  * **Descrição:** Sistema CRUD funcional com validações e estrutura simples de interface.
-  * **Tecnologias:** ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-  * 🔗 [Ver Repositório](https://github.com/SEU_USUARIO/NOME_DO_REPO)
+* **[Projeto FaceRecog](https://github.com/cauanbrofc/Projeto-FaceRecog)**
+  * **Descrição:** Segundo projeto prático, explorando conceitos de visão computacional e reconhecimento facial utilizando Python.
+  * **Tecnologias:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  * 🔗 [Ver Repositório](https://github.com/cauanbrofc/Projeto-FaceRecog)
+
+* **[CRUD-WEB](https://github.com/cauanbrofc/CRUD-WEB)**
+  * **Descrição:** Meu primeiro projeto web, focado nos fundamentos de operações CRUD (Create, Read, Update, Delete) e na integração entre front-end e back-end com PHP e banco de dados.
+  * **Tecnologias:** ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+  * 🔗 [Ver Repositório](https://github.com/cauanbrofc/CRUD-WEB)
 
 ---
 
