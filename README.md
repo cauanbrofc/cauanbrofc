@@ -71,4 +71,4 @@ Aqui estão meus principais projetos organizados em ordem cronológica de desenv
 
 ---
 
-> *"Sempre estudando e evoluindo a cada linha de código."*
+> *"Eu sou apenas um cara comum que tinha um sonho e correu para ele. - Lyoto Machida"*
